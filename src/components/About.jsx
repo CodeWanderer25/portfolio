@@ -119,7 +119,7 @@ export default function About() {
         </div>
 
         {/* What I Enjoy Doing (6 cards) */}
-        <div className="mb-8">
+        {/* <div className="mb-8">
           <h3 className="text-xl font-bold text-white mb-6 flex items-center gap-2">
             <span>What I Focus On &amp; Enjoy Building</span>
           </h3>
@@ -144,7 +144,7 @@ export default function About() {
               );
             })}
           </div>
-        </div>
+        </div> */}
 
         {/* What I Bring Section */}
         {/* <div className="bg-slate-900/40 border border-slate-800/80 rounded-2xl p-6 sm:p-8">
