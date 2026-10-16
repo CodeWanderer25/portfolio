@@ -124,8 +124,8 @@ export const PROJECTS = [
       "AI-assisted financial analysis and automated summary insights",
     ],
     // Replace with your real live demo and repo URLs when available:
-    liveUrl: "https://invoiceai-lzko.onrender.com", // TODO: Add live deployment link
-    githubUrl: "https://github.com/CodeWanderer25/InvoiceAI", // TODO: Add GitHub repo link
+    liveUrl: "https://invoiceai-dev.vercel.app", // TODO: Add live deployment link
+    githubUrl: "https://github.com/CodeWanderer25/invoice", // TODO: Add GitHub repo link
     accentColor: "from-sky-500/20 to-blue-600/10",
     // badge: "Full Stack + AI",
     // highlight: "Primary Project",
